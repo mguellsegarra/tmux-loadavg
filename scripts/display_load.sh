@@ -36,10 +36,10 @@ format_load() {
 
 	case $load_info in
 	high)
-		printf "#[fg=colour160]"
+		printf "#[fg=colour175]"
 		;;
 	medium)
-		printf "#[fg=colour214]"
+		printf "#[fg=colour223]"
 		;;
 	low) ;;
 	esac
